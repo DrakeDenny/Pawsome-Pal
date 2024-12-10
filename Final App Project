@@ -1,0 +1,22 @@
+"""
+Pawsome Pals App
+
+Author: Drake Denny
+Date: December 9, 2024
+Purpose: This application is built using the Tkinter library in Python. It provides a fun and interactive
+experience for dog lovers, featuring various functionalities such as displaying fun facts about dogs,
+personalized greetings, and additional features in a secondary window.
+
+Modules:
+- tkinter: Used for creating the GUI.
+- tkinter.messagebox: Used for displaying message boxes.
+- random: Used for selecting random facts, breeds, tips, and challenges.
+
+Functions:
+- show_dog_fact: Displays a random fun fact about dogs.
+- show_greeting: Displays a personalized greeting using the dog's name.
+- open_second_window: Opens a secondary window with additional features like breed info, community forum,
+  health tracker, training tips, and daily challenges.
+- Average Cost: Calculates the average cost of a dog per year.
+- Goodbye Message: Displays a goodbye message.
+"""
